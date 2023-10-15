@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "com.bolsadeideas.springboot.webflux.app.title",
+    "type": "java.lang.String",
+    "description": "A description for 'com.bolsadeideas.springboot.webflux.app.title'"
+  },
+  {
+    "name": "com.bolsadeideas.springboot.webflux.debug",
+    "type": "java.lang.String",
+    "description": "A description for 'com.bolsadeideas.springboot.webflux.debug'"
+  }
+]}
